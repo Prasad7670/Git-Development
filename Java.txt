@@ -1,3 +1,2 @@
 Java is a Platform-independented language.
 Java is a Secure and Multithreading.
-I love This Language.
